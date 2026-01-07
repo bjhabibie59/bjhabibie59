@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋 I'm Borris</h1>
+<h1 align="center">Hello 👋 I'm Habibie</h1>
 <h3 align="center">Backend Developer Enthusiast 🚀</h3>
 
 <p align="center">
@@ -12,7 +12,7 @@
 - 🚀 Building **REST APIs** with clean architecture
 - 🧠 Currently learning **Golang** & **Laravel**
 - 🐧 Linux & CLI enjoyer
-- 🎓 SMK Student with Backend PKL experience
+- 🎓 SMK Student with Backend experience
 
 ---
 
@@ -24,7 +24,7 @@
 ---
 
 ## 📌 Current Focus
-- Clean Architecture in Go
+- Clean Architecture in Go & PHP (Laravel)
 - REST API Best Practices
 - Authentication & Authorization
 - Writing clean & maintainable code
