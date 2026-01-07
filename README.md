@@ -52,14 +52,13 @@
 
 ## 🐍 Contribution Snake
 <p align="center">
-  <img src="https://github.com/bjhabibie59/bjhabibie59/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/bjhabibie59/bjhabibie59/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
 
 ## 📫 Connect With Me
-- 📧 Email: your@email.com
-- 💼 LinkedIn: your-linkedin-url
+- 📧 Email: bjhabibie0509@gmail.com
 
 ---
 
