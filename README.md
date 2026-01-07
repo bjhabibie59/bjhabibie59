@@ -40,13 +40,29 @@
 ---
 
 ## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bjhabibie59&show_icons=true&theme=tokyonight" />
-</p>
+<picture>
+  <source 
+    srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=bjhabibie59&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source 
+    srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=bjhabibie59&show_icons=true&theme=default"
+    media="(prefers-color-scheme: light)"
+  />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=bjhabibie59&show_icons=true" />
+</picture>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bjhabibie59&theme=tokyonight" />
-</p>
+<picture>
+  <source 
+    srcset="https://streak-stats.demolab.com?user=bjhabibie59&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source 
+    srcset="https://streak-stats.demolab.com?user=bjhabibie59"
+    media="(prefers-color-scheme: light)"
+  />
+  <img src="https://streak-stats.demolab.com?user=bjhabibie59" />
+</picture>
 
 ---
 
