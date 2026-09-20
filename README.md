@@ -1,10 +1,6 @@
 <h1 align="center">Hello 👋 I'm BJ Habibie</h1>
 <h3 align="center">Backend Developer Enthusiast 🚀</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Backend+Engineer;Laravel;REST+API+Enthusiast" />
-</p>
-
 ---
 
 ## 👨‍💻 About Me
@@ -45,7 +41,7 @@
 ---
 
 ## 📫 Connect With Me
-- 📧 Email: bjhabibie0509@gmail.com
+- 📧 Email: bibbj96@gmail.com
 
 ---
 
